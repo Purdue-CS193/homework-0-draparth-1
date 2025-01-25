@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Love that we get to meet once a week and I have friends in the class. 
+- Love that that the work is helpful and practical. 
 
 1. Numbered
 2. List
